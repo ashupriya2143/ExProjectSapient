@@ -1,0 +1,26 @@
+$ git log
+commit 3740582088788217f3039e222da4cf42ded11405 (HEAD -> master, origin/master, origin/BeBranch, BeBranch)
+Author: ashupriya2143 <ashusadanande@gmail.com>
+Date:   Tue Jun 21 13:53:24 2022 +0530
+
+    files added
+
+commit 26cad7fb3d920216138db907fc439259626f5092
+Author: ashupriya2143 <ashusadanande@gmail.com>
+Date:   Tue Jun 21 13:27:57 2022 +0530
+
+    added
+
+ashpriya@LAPTOP-CLD6CVUJ MINGW64 /d/StartApp/learn_git_again (master)
+$ git log
+commit 3740582088788217f3039e222da4cf42ded11405 (HEAD -> master, origin/master, origin/BeBranch, BeBranch)
+Author: ashupriya2143 <ashusadanande@gmail.com>
+Date:   Tue Jun 21 13:53:24 2022 +0530
+
+    files added
+
+commit 26cad7fb3d920216138db907fc439259626f5092
+Author: ashupriya2143 <ashusadanande@gmail.com>
+Date:   Tue Jun 21 13:27:57 2022 +0530
+
+    added
